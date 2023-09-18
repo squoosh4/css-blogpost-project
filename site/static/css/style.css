@@ -1,0 +1,151 @@
+body{
+
+    background-color: #000000;
+    font-family: "Source Code Pro", monospace;
+
+}
+
+a{
+
+    color: #20d7f3;
+
+}
+
+h1{
+
+    color: #ffffff;
+
+}
+
+.blog-title{
+
+    display: inline;
+    width: 10%;
+    margin: auto;
+
+}
+
+#wave-text{
+
+    font-family: 'Wavefont', cursive;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+#card-container{
+
+    border: 5px solid;
+    border-radius: 5px;
+
+}
+
+#case-image{
+
+    border: 5px solid;
+    border-radius: 5px;
+    width: 300px;
+
+}
+
+#keyboard-image{
+    
+    border: 5px solid;
+    border-radius: 5px;
+    width: 600px;
+
+}
+
+#mouse-image{
+
+    border: 5px solid;
+    border-radius: 5px;
+    width: 300px;
+
+}
+
+#lighting-image1{
+
+    border: 5px solid;
+    border-radius: 5px;
+    width: 300px
+
+}
+
+#lighting-image2{
+
+    border: 5px solid;
+    border-radius: 5px;
+    width: 300px
+
+}
+
+.card-container1{
+
+    border-color: #f4a2e1;
+    color: #f4a2e1;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 37.5px;
+    margin-bottom: 37.5px;
+
+}
+
+.card-container2{
+
+    border-color: #c175ff;
+    color: #c175ff;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 37.5px;
+    margin-bottom: 37.5px;
+
+}
+
+.card-container3{
+
+    border-color: #ffffff;
+    color: #ffffff;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 37.5px;
+    margin-bottom: 37.5px;
+
+}
+
+.card-container4{
+
+    border-color: #ffffff;
+    border: 7px transparent #ffffff;
+    border: 9px transparent #ffffff;
+    border: 13px transparent #ffffff;
+    border: 18px transparent #ffffff;
+    color: #ffffff;
+    text-shadow:
+      0 0 2px currentColor,
+      0 0 4px currentColor,
+      0 0 8px currentColor,
+      0 0 12px currentColor,
+      0 0 20px currentColor;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 37.5px;
+    margin-bottom: 37.5px;
+  
+}
+
+.card-headertext{
+
+    font-size: 25px;
+    font-weight: 700;
+    width: auto;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.card-body{
+
+    padding: 20px;
+
+}
